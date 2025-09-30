@@ -67,9 +67,15 @@
 
 ---
 
-## 📌 Pinned (추천)
-- **CodingTest** — 운영 링크/주요 기능/배포 구성 요약
-- **WebKillerAI** — 탐지 항목/비파괴 원칙/리포트 샘플
+## 📌 Pinned
+
+- **CodingTest**  
+  [repo](https://github.com/asfdbw01/CodingTest) · [live](https://codingtest.duckdns.org/)  
+  Java/Spring · GitHub OAuth2 로그인 + 파일 업/다운/삭제 · **중복 경로 방지/Rate Limit 대응** · Docker Compose + Caddy 배포
+
+- **WebKillerAI**  
+  [repo](https://github.com/asfdbw01/WebKillerAI)  
+  Java 17/JavaFX 데스크탑 **비파괴 웹 스캐너** · Reflected XSS/SQLi/CORS/Open Redirect/LFI/SSTI/Headers · **증거 스니펫 의무 수집** · JSON/HTML(/PDF) 리포트 · 스모크 회귀 테스트
 
 ---
 
